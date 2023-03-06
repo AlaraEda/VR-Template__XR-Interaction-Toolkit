@@ -2,7 +2,7 @@
  VR Starter Template
 
  This VR Template is made in march 2023 and uses the XR Interaction Toolkit.
- It does make use of hand-tracking, but you are able to walk around in a VR environment.
+ It does NOT make use of hand-tracking, but you are able to walk around in a VR environment.
  You are able to teleport and you are able to interract with objects by using your controllers. 
 
  Warning: You do need to add teleport and/or interaction components to new places/objects. 
